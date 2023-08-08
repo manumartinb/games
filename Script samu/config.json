@@ -1,0 +1,7 @@
+{
+  "headless" : true,
+  "chrome_type": "google-chrome",
+  "email": "manuelmartinbarranco@gmail.com",
+  "password": "numero7679",
+  "template": "Plantilla_Manu"
+}
